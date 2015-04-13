@@ -13,14 +13,14 @@ public class SwissbibViaf2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        boolean dev = false;
+        boolean dev = true;
     
         if (dev && args.length == 0) {
-            filename = "resources/test_1.xml";
-            filename = "resources/Feb12.m21.10k";
-            filename = "resources/viaf-20130115-clusters-marc21.congress10k.xml";
-            filename = "resources/viaf-20130115-clusters-marc21.o_10k_l_10k.xml";
-            filename = "resources/viaf-20130115-clusters-marc21.o_0_l_100k.xml";
+            //filename = "resources/test_1.xml";
+            //filename = "resources/Feb12.m21.10k";
+            //filename = "resources/viaf-20130115-clusters-marc21.congress10k.xml";
+            //filename = "resources/viaf-20130115-clusters-marc21.o_10k_l_10k.xml";
+            filename = "data/small.viaf.xml";
             outputfolder = "outputfiles";
         } else {
             try {
