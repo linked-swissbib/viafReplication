@@ -1,0 +1,10 @@
+
+
+How to start SwissbibViaf2
+
+cd $VIAF_BASE
+java -cp .:./target/createVIAF-1.0-SNAPSHOT-jar-with-dependencies.jar org.swissbib.linked.viaf.SwissbibViaf2 -i $VIAF_DATA/input/viaf-20150312-clusters-marc21.xml -o $VIAF_DATA/output &
+
+
+push viaf docs
+java -Durl=http://sb-s8.swissbib.unibas.ch:8080/solr/viaf/update  -jar post.jar $VIAF_DATA/output/*.xml &

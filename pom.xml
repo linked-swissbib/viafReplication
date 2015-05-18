@@ -12,7 +12,49 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <targetJdk>1.7</targetJdk>
+
   </properties>
+
+  <build>
+    <plugins>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-compiler-plugin</artifactId>
+          <version>2.3.2</version>
+        <configuration>
+          <source>${targetJdk}</source>
+          <target>${targetJdk}</target>
+          <showWarnings>true</showWarnings>
+        </configuration>
+      </plugin>
+
+
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-release-plugin</artifactId>
+        <version>2.4</version><!--$NO-MVN-MAN-VER$-->
+        <!-- m2e complains about a different plugin version
+             being specified in the parent pom. However,
+             this is not actually problem for maven. So,
+             we can ignore the warning. -->
+      </plugin>
+
+      <plugin>
+        <artifactId>maven-assembly-plugin</artifactId>
+        <version>2.2-beta-5</version>
+        <configuration>
+          <descriptorRefs>
+            <descriptorRef>jar-with-dependencies</descriptorRef>
+          </descriptorRefs>
+        </configuration>
+
+      </plugin>
+
+    </plugins>
+  </build>
+
+
 
   <dependencies>
     <dependency>
