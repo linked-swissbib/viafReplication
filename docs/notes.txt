@@ -7,4 +7,4 @@ java -cp .:./target/createVIAF-1.0-SNAPSHOT-jar-with-dependencies.jar org.swissb
 
 
 push viaf docs
-java -Durl=http://sb-s8.swissbib.unibas.ch:8080/solr/viaf/update  -jar post.jar $VIAF_DATA/output/*.xml &
+java   -Durl=http://sb-s8.swissbib.unibas.ch:8080/solr/viaf/update  -jar post.jar   $VIAF_DATA/output/*.xml  > push.log 2>&1  &
