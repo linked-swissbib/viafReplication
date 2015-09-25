@@ -1,0 +1,457 @@
+<collection>
+    <mx:record xmlns:mx="http://www.loc.gov/MARC21/slim" xmlns:v="http://viaf.org/viaf/terms#"
+        xmlns:srw="http://www.loc.gov/zing/srw/">
+        <mx:leader>00000nz##a22.....n..4500</mx:leader>
+        <mx:controlfield tag="001">viaf100002684</mx:controlfield>
+        <mx:controlfield tag="003">OCoLC</mx:controlfield>
+        <mx:controlfield tag="008">140514n||azznnabbn##########|a#aaa####|#</mx:controlfield>
+        <mx:datafield tag="024" ind1="7" ind2=" ">
+            <mx:subfield code="a">http://viaf.org/viaf/100002684</mx:subfield>
+            <mx:subfield code="2">uri</mx:subfield>
+        </mx:datafield>
+        <mx:datafield tag="040" ind1=" " ind2=" ">
+            <mx:subfield code="a">VIAF</mx:subfield>
+            <mx:subfield code="c">VIAF</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1=" " ind2="1" tag="700">
+            <mx:subfield code="a">Dias, Manuel Madureira,</mx:subfield>
+            <mx:subfield code="d">1936-</mx:subfield>
+            <mx:subfield code="0">(PTBNP)84013</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1="1" ind2=" " tag="700">
+            <mx:subfield code="a">Dias, Manuel Madureira</mx:subfield>
+            <mx:subfield code="d">1936-</mx:subfield>
+            <mx:subfield code="0">(ISNI)0000000068114590</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1=" " ind2=" " tag="370">
+            <mx:subfield code="a">PT</mx:subfield>
+            <mx:subfield code="2">PTBNP</mx:subfield>
+            <mx:subfield code="2">ISNI</mx:subfield>
+        </mx:datafield>
+        <mx:datafield tag="375" ind1=" " ind2=" ">
+            <mx:subfield code="a">unknown</mx:subfield>
+            <mx:subfield code="2">0</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1="1" ind2=" " tag="400">
+            <mx:subfield code="a">Dias, Manuel Madureira</mx:subfield>
+            <mx:subfield code="2">ISNI</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1=" " ind2="1" tag="400">
+            <mx:subfield code="a">Dias, Manuel Madureira</mx:subfield>
+            <mx:subfield code="2">PTBNP</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1="2" ind2=" " tag="510">
+            <mx:subfield code="a">Algarve. (1988-2004 (Manuel Madureira Dias))</mx:subfield>
+            <mx:subfield code="b">Bispo</mx:subfield>
+            <mx:subfield code="2">ISNI</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1="0" ind2="1" tag="510">
+            <mx:subfield code="a">Algarve. (1988-2004 (Manuel Madureira Dias))</mx:subfield>
+            <mx:subfield code="b">Bispo,</mx:subfield>
+            <mx:subfield code="c">1988-2004 (Manuel Madureira Dias)</mx:subfield>
+            <mx:subfield code="2">PTBNP</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1="2" ind2=" " tag="510">
+            <mx:subfield code="a">Instituto Superior de Teologia (Évora)</mx:subfield>
+            <mx:subfield code="2">ISNI</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1="2" ind2=" " tag="510">
+            <mx:subfield code="a">Instituto Superior de Teologia</mx:subfield>
+            <mx:subfield code="b">(Évora)</mx:subfield>
+            <mx:subfield code="2">ISNI</mx:subfield>
+        </mx:datafield>
+        <mx:datafield tag="856" ind1="4" ind2="0">
+            <mx:subfield code="u">http://viaf.org/viaf/100002684</mx:subfield>
+        </mx:datafield>
+        <mx:datafield tag="856" ind1="4" ind2="2">
+            <mx:subfield code="u">http://viaf.org/viaf/data</mx:subfield>
+            <mx:subfield code="z">Dataset description</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1=" " ind2=" " tag="950">
+            <mx:subfield code="a">Gomes, António Ferreira, 1906-1989</mx:subfield>
+            <mx:subfield code="9">2</mx:subfield>
+            <mx:subfield code="2">PTBNP</mx:subfield>
+            <mx:subfield code="2">ISNI</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1=" " ind2=" " tag="950">
+            <mx:subfield code="a">Cordeiro, José de Leão, 1932-</mx:subfield>
+            <mx:subfield code="9">2</mx:subfield>
+            <mx:subfield code="2">PTBNP</mx:subfield>
+            <mx:subfield code="2">ISNI</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1=" " ind2=" " tag="951">
+            <mx:subfield code="a">Instituto Superior de Teologia (Évora)</mx:subfield>
+            <mx:subfield code="9">1</mx:subfield>
+            <mx:subfield code="2">PTBNP</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1=" " ind2=" " tag="941">
+            <mx:subfield code="a">080</mx:subfield>
+            <mx:subfield code="9">1</mx:subfield>
+            <mx:subfield code="2">PTBNP</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1=" " ind2=" " tag="941">
+            <mx:subfield code="a">205</mx:subfield>
+            <mx:subfield code="9">1</mx:subfield>
+            <mx:subfield code="2">PTBNP</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1=" " ind2=" " tag="941">
+            <mx:subfield code="a">300</mx:subfield>
+            <mx:subfield code="9">1</mx:subfield>
+            <mx:subfield code="2">PTBNP</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1=" " ind2=" " tag="944">
+            <mx:subfield code="a">am</mx:subfield>
+            <mx:subfield code="9">13</mx:subfield>
+            <mx:subfield code="2">PTBNP</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1=" " ind2=" " tag="944">
+            <mx:subfield code="a">as</mx:subfield>
+            <mx:subfield code="9">1</mx:subfield>
+            <mx:subfield code="2">PTBNP</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1=" " ind2=" " tag="901">
+            <mx:subfield code="a">9789899711105</mx:subfield>
+            <mx:subfield code="9">1</mx:subfield>
+            <mx:subfield code="2">PTBNP</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1=" " ind2=" " tag="901">
+            <mx:subfield code="a">9789896733131</mx:subfield>
+            <mx:subfield code="9">1</mx:subfield>
+            <mx:subfield code="2">PTBNP</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1=" " ind2=" " tag="901">
+            <mx:subfield code="a">9789728286873</mx:subfield>
+            <mx:subfield code="9">1</mx:subfield>
+            <mx:subfield code="2">PTBNP</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1=" " ind2=" " tag="901">
+            <mx:subfield code="a">9789727516964</mx:subfield>
+            <mx:subfield code="9">1</mx:subfield>
+            <mx:subfield code="2">PTBNP</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1=" " ind2=" " tag="901">
+            <mx:subfield code="a">9789727515776</mx:subfield>
+            <mx:subfield code="9">1</mx:subfield>
+            <mx:subfield code="2">PTBNP</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1=" " ind2=" " tag="901">
+            <mx:subfield code="a">9789727514403</mx:subfield>
+            <mx:subfield code="9">1</mx:subfield>
+            <mx:subfield code="2">PTBNP</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1=" " ind2=" " tag="901">
+            <mx:subfield code="a">9789727513840</mx:subfield>
+            <mx:subfield code="9">1</mx:subfield>
+            <mx:subfield code="2">PTBNP</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1=" " ind2=" " tag="901">
+            <mx:subfield code="a">9789727512850</mx:subfield>
+            <mx:subfield code="9">1</mx:subfield>
+            <mx:subfield code="2">PTBNP</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1=" " ind2=" " tag="901">
+            <mx:subfield code="a">9789727511976</mx:subfield>
+            <mx:subfield code="9">1</mx:subfield>
+            <mx:subfield code="2">PTBNP</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1=" " ind2=" " tag="901">
+            <mx:subfield code="a">9789727511471</mx:subfield>
+            <mx:subfield code="9">1</mx:subfield>
+            <mx:subfield code="2">PTBNP</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1=" " ind2=" " tag="910">
+            <mx:subfield code="a">Com o Espírito Santo rumo ao ano 2000 quinze
+                catequeses</mx:subfield>
+            <mx:subfield code="2">PTBNP</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1=" " ind2=" " tag="910">
+            <mx:subfield code="a">Crismados para viver e testemunhar a fé</mx:subfield>
+            <mx:subfield code="2">PTBNP</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1=" " ind2=" " tag="910">
+            <mx:subfield code="a">Eborensia revista do Instituto Superior de Teologia de
+                Évora</mx:subfield>
+            <mx:subfield code="2">PTBNP</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1=" " ind2=" " tag="910">
+            <mx:subfield code="a">Igreja comunhão e serviço</mx:subfield>
+            <mx:subfield code="2">PTBNP</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1=" " ind2=" " tag="910">
+            <mx:subfield code="a">Igreja, que dizes de ti mesma? reflexões sobre a Lumen
+                gentium</mx:subfield>
+            <mx:subfield code="2">PTBNP</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1=" " ind2=" " tag="910">
+            <mx:subfield code="a">Igreja sacramento e testemunha</mx:subfield>
+            <mx:subfield code="2">PTBNP</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1=" " ind2=" " tag="910">
+            <mx:subfield code="a">Iniciação cristã</mx:subfield>
+            <mx:subfield code="2">PTBNP</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1=" " ind2=" " tag="910">
+            <mx:subfield code="a">&lt;O &gt;livro do leitor</mx:subfield>
+            <mx:subfield code="2">PTBNP</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1=" " ind2=" " tag="910">
+            <mx:subfield code="a">Para uma civilização de amor e liberdade homilias pascais
+                1974-1982</mx:subfield>
+            <mx:subfield code="2">PTBNP</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1=" " ind2=" " tag="910">
+            <mx:subfield code="a">&lt;À &gt;procura de um tesouro para saborear a «Ceia do
+                Senhor»</mx:subfield>
+            <mx:subfield code="2">PTBNP</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1=" " ind2=" " tag="921">
+            <mx:subfield code="a">Paulinas</mx:subfield>
+            <mx:subfield code="9">10</mx:subfield>
+            <mx:subfield code="2">PTBNP</mx:subfield>
+            <mx:subfield code="2">ISNI</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1=" " ind2=" " tag="921">
+            <mx:subfield code="a">Secretariado Nacional de Liturgia</mx:subfield>
+            <mx:subfield code="9">2</mx:subfield>
+            <mx:subfield code="2">PTBNP</mx:subfield>
+            <mx:subfield code="2">ISNI</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1=" " ind2=" " tag="921">
+            <mx:subfield code="a">Secretariado do Pastoral de Évora</mx:subfield>
+            <mx:subfield code="9">2</mx:subfield>
+            <mx:subfield code="2">PTBNP</mx:subfield>
+            <mx:subfield code="2">ISNI</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1=" " ind2=" " tag="921">
+            <mx:subfield code="a">Secret. de Pastoral</mx:subfield>
+            <mx:subfield code="9">2</mx:subfield>
+            <mx:subfield code="2">PTBNP</mx:subfield>
+            <mx:subfield code="2">ISNI</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1=" " ind2=" " tag="921">
+            <mx:subfield code="a">José Francisco Sanches Alves</mx:subfield>
+            <mx:subfield code="9">2</mx:subfield>
+            <mx:subfield code="2">PTBNP</mx:subfield>
+            <mx:subfield code="2">ISNI</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1=" " ind2=" " tag="921">
+            <mx:subfield code="a">Fundação SPES</mx:subfield>
+            <mx:subfield code="9">2</mx:subfield>
+            <mx:subfield code="2">PTBNP</mx:subfield>
+            <mx:subfield code="2">ISNI</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1=" " ind2=" " tag="922">
+            <mx:subfield code="a">PT</mx:subfield>
+            <mx:subfield code="9">14</mx:subfield>
+            <mx:subfield code="2">PTBNP</mx:subfield>
+        </mx:datafield>
+        <mx:datafield tag="943" ind1=" " ind2=" ">
+            <mx:subfield code="a">198.</mx:subfield>
+            <mx:subfield code="9">3</mx:subfield>
+        </mx:datafield>
+        <mx:datafield tag="943" ind1=" " ind2=" ">
+            <mx:subfield code="a">199.</mx:subfield>
+            <mx:subfield code="9">5</mx:subfield>
+        </mx:datafield>
+        <mx:datafield tag="943" ind1=" " ind2=" ">
+            <mx:subfield code="a">200.</mx:subfield>
+            <mx:subfield code="9">6</mx:subfield>
+        </mx:datafield>
+        <mx:datafield tag="943" ind1=" " ind2=" ">
+            <mx:subfield code="a">201.</mx:subfield>
+            <mx:subfield code="9">2</mx:subfield>
+        </mx:datafield>
+        <mx:datafield tag="970" ind1=" " ind2=" ">
+            <mx:subfield code="a">1936</mx:subfield>
+            <mx:subfield code="b">0</mx:subfield>
+            <mx:subfield code="c">lived</mx:subfield>
+        </mx:datafield>
+        <mx:datafield tag="997" ind1=" " ind2=" ">
+            <mx:subfield code="a">1936</mx:subfield>
+            <mx:subfield code="b">0</mx:subfield>
+            <mx:subfield code="c">lived</mx:subfield>
+        </mx:datafield>
+    </mx:record>
+    <mx:record xmlns:mx="http://www.loc.gov/MARC21/slim" xmlns:v="http://viaf.org/viaf/terms#"
+        xmlns:srw="http://www.loc.gov/zing/srw/">
+        <mx:leader>00000nz##a22.....n..4500</mx:leader>
+        <mx:controlfield tag="001">viaf100003377</mx:controlfield>
+        <mx:controlfield tag="003">OCoLC</mx:controlfield>
+        <mx:controlfield tag="008">140514n||azznnabbn##########|a#aaa####|#</mx:controlfield>
+        <mx:datafield tag="024" ind1="7" ind2=" ">
+            <mx:subfield code="a">http://viaf.org/viaf/100003377</mx:subfield>
+            <mx:subfield code="2">uri</mx:subfield>
+        </mx:datafield>
+        <mx:datafield tag="040" ind1=" " ind2=" ">
+            <mx:subfield code="a">VIAF</mx:subfield>
+            <mx:subfield code="c">VIAF</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1=" " ind2="1" tag="700">
+            <mx:subfield code="a">Pereira, Rodrigo Álvares,</mx:subfield>
+            <mx:subfield code="d">ca 18- -</mx:subfield>
+            <mx:subfield code="0">(PTBNP)84203</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1="1" ind2=" " tag="700">
+            <mx:subfield code="a">Pereira, Rodrigo Alvares</mx:subfield>
+            <mx:subfield code="0">(LC)no2013117215</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1="1" ind2=" " tag="700">
+            <mx:subfield code="a">Pereira, Rodrigo Álvares</mx:subfield>
+            <mx:subfield code="0">(ISNI)0000000069525447</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1=" " ind2=" " tag="370">
+            <mx:subfield code="a">PT</mx:subfield>
+            <mx:subfield code="2">PTBNP</mx:subfield>
+            <mx:subfield code="2">ISNI</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1=" " ind2=" " tag="370">
+            <mx:subfield code="a">Portugal</mx:subfield>
+            <mx:subfield code="2">LC</mx:subfield>
+        </mx:datafield>
+        <mx:datafield tag="375" ind1=" " ind2=" ">
+            <mx:subfield code="a">unknown</mx:subfield>
+            <mx:subfield code="2">0</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1="1" ind2=" " tag="400">
+            <mx:subfield code="a">Alvares Pereira, Rodrigo</mx:subfield>
+            <mx:subfield code="2">LC</mx:subfield>
+            <mx:subfield code="2">ISNI</mx:subfield>
+        </mx:datafield>
+        <mx:datafield tag="856" ind1="4" ind2="0">
+            <mx:subfield code="u">http://viaf.org/viaf/100003377</mx:subfield>
+        </mx:datafield>
+        <mx:datafield tag="856" ind1="4" ind2="2">
+            <mx:subfield code="u">http://viaf.org/viaf/data</mx:subfield>
+            <mx:subfield code="z">Dataset description</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1=" " ind2=" " tag="950">
+            <mx:subfield code="a">Faria, Bernardo de, 1863-1928</mx:subfield>
+            <mx:subfield code="9">2</mx:subfield>
+            <mx:subfield code="2">PTBNP</mx:subfield>
+            <mx:subfield code="2">ISNI</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1=" " ind2=" " tag="944">
+            <mx:subfield code="a">am</mx:subfield>
+            <mx:subfield code="9">2</mx:subfield>
+            <mx:subfield code="2">PTBNP</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1=" " ind2=" " tag="910">
+            <mx:subfield code="a">&lt;A &gt;batalha do Lys a 9 de Abril de 1918 &lt;a &gt;acção
+                notável das tropas portuguêsas na mesma batalha</mx:subfield>
+            <mx:subfield code="2">PTBNP</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1=" " ind2=" " tag="910">
+            <mx:subfield code="a">Esboço histórico do Batalhão de Caçadores nº. 11 mais tarde
+                Regimento de Caçadores nº. 11 e depois Regimento de Infantaria nº 26</mx:subfield>
+            <mx:subfield code="2">PTBNP</mx:subfield>
+            <mx:subfield code="2">LC</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1=" " ind2=" " tag="921">
+            <mx:subfield code="a">R.A. Pereira</mx:subfield>
+            <mx:subfield code="9">2</mx:subfield>
+            <mx:subfield code="2">PTBNP</mx:subfield>
+            <mx:subfield code="2">ISNI</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1=" " ind2=" " tag="922">
+            <mx:subfield code="a">PT</mx:subfield>
+            <mx:subfield code="9">2</mx:subfield>
+            <mx:subfield code="2">PTBNP</mx:subfield>
+        </mx:datafield>
+        <mx:datafield tag="943" ind1=" " ind2=" ">
+            <mx:subfield code="a">192.</mx:subfield>
+            <mx:subfield code="9">2</mx:subfield>
+        </mx:datafield>
+        <mx:datafield tag="943" ind1=" " ind2=" ">
+            <mx:subfield code="a">193.</mx:subfield>
+            <mx:subfield code="9">2</mx:subfield>
+        </mx:datafield>
+        <mx:datafield tag="970" ind1=" " ind2=" ">
+            <mx:subfield code="a">0</mx:subfield>
+            <mx:subfield code="b">0</mx:subfield>
+            <mx:subfield code="c">lived</mx:subfield>
+        </mx:datafield>
+        <mx:datafield tag="997" ind1=" " ind2=" ">
+            <mx:subfield code="a">0</mx:subfield>
+            <mx:subfield code="b">0</mx:subfield>
+            <mx:subfield code="c">lived</mx:subfield>
+        </mx:datafield>
+    </mx:record>
+    <mx:record xmlns:mx="http://www.loc.gov/MARC21/slim" xmlns:v="http://viaf.org/viaf/terms#"
+        xmlns:srw="http://www.loc.gov/zing/srw/">
+        <mx:leader>00000nz##a22.....n..4500</mx:leader>
+        <mx:controlfield tag="001">viaf100004169</mx:controlfield>
+        <mx:controlfield tag="003">OCoLC</mx:controlfield>
+        <mx:controlfield tag="008">140514n||azznnabbn##########|a#aaa####|#</mx:controlfield>
+        <mx:datafield tag="024" ind1="7" ind2=" ">
+            <mx:subfield code="a">http://viaf.org/viaf/100004169</mx:subfield>
+            <mx:subfield code="2">uri</mx:subfield>
+        </mx:datafield>
+        <mx:datafield tag="040" ind1=" " ind2=" ">
+            <mx:subfield code="a">VIAF</mx:subfield>
+            <mx:subfield code="c">VIAF</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1=" " ind2="1" tag="700">
+            <mx:subfield code="a">Martins, António Luís Amorim,</mx:subfield>
+            <mx:subfield code="d">1937-</mx:subfield>
+            <mx:subfield code="0">(PTBNP)84479</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1="1" ind2=" " tag="700">
+            <mx:subfield code="a">Martins, António Luís Amorim</mx:subfield>
+            <mx:subfield code="d">1937-</mx:subfield>
+            <mx:subfield code="0">(ISNI)000000006851608X</mx:subfield>
+        </mx:datafield>
+        <mx:datafield tag="375" ind1=" " ind2=" ">
+            <mx:subfield code="a">unknown</mx:subfield>
+            <mx:subfield code="2">0</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1="1" ind2=" " tag="400">
+            <mx:subfield code="a">Martins, António Luís Amorim</mx:subfield>
+            <mx:subfield code="2">ISNI</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1=" " ind2="1" tag="400">
+            <mx:subfield code="a">Martins, António Luís Amorim</mx:subfield>
+            <mx:subfield code="2">PTBNP</mx:subfield>
+        </mx:datafield>
+        <mx:datafield tag="856" ind1="4" ind2="0">
+            <mx:subfield code="u">http://viaf.org/viaf/100004169</mx:subfield>
+        </mx:datafield>
+        <mx:datafield tag="856" ind1="4" ind2="2">
+            <mx:subfield code="u">http://viaf.org/viaf/data</mx:subfield>
+            <mx:subfield code="z">Dataset description</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1=" " ind2=" " tag="944">
+            <mx:subfield code="a">am</mx:subfield>
+            <mx:subfield code="9">1</mx:subfield>
+            <mx:subfield code="2">PTBNP</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1=" " ind2=" " tag="910">
+            <mx:subfield code="a">Introdução ao método de análise dos valores</mx:subfield>
+            <mx:subfield code="2">PTBNP</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1=" " ind2=" " tag="921">
+            <mx:subfield code="a">II Colóquio Nac. da Indústria da Construção</mx:subfield>
+            <mx:subfield code="9">2</mx:subfield>
+            <mx:subfield code="2">PTBNP</mx:subfield>
+            <mx:subfield code="2">ISNI</mx:subfield>
+        </mx:datafield>
+        <mx:datafield ind1=" " ind2=" " tag="922">
+            <mx:subfield code="a">PT</mx:subfield>
+            <mx:subfield code="9">1</mx:subfield>
+            <mx:subfield code="2">PTBNP</mx:subfield>
+        </mx:datafield>
+        <mx:datafield tag="943" ind1=" " ind2=" ">
+            <mx:subfield code="a">197.</mx:subfield>
+            <mx:subfield code="9">2</mx:subfield>
+        </mx:datafield>
+        <mx:datafield tag="970" ind1=" " ind2=" ">
+            <mx:subfield code="a">1937</mx:subfield>
+            <mx:subfield code="b">0</mx:subfield>
+            <mx:subfield code="c">lived</mx:subfield>
+        </mx:datafield>
+        <mx:datafield tag="997" ind1=" " ind2=" ">
+            <mx:subfield code="a">1937</mx:subfield>
+            <mx:subfield code="b">0</mx:subfield>
+            <mx:subfield code="c">lived</mx:subfield>
+        </mx:datafield>
+    </mx:record>
+</collection>
